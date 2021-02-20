@@ -1,4 +1,6 @@
 # homework1 
+<!-- NOTE: upon initial completion of the assignment, I improperly committed/pushed the index.html and CSS files. It got so wonky that I had to delete the entire repo and start from scratch. For this reason you will not be able to see the changes as I made them. However, I have added comments to the index.html so you can see what I changed-->
+
 # Refactor Client Code for Web Accessibility
 ## Project Scope
 Refactor code to satisfy the accessibility critieria listed below in the Acceptance Criteria and keep code cleaner than what is provided. If needed look over code and make any improvements to the codebase for long-term sustainability using current HTML semantics and ensure the code flows with the layout of the webpage. 
