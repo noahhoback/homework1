@@ -21,10 +21,14 @@ header h1 {
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
+/* Updated the CSS to match the correct semantic HTML, from ".seo" to "mark" */
+
 header h1 mark {
     color: #d9dcd6;;
     background-color: inherit;
 }
+
+/*Updated the CSS to match the correct semantic HTML, from "div" to "nav" */
 
 header nav {
     padding-top: 15px;
@@ -76,6 +80,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* Updated the CSS to reflect the correct semantic HTML. Consolidated the CSS using the class "section" (as opposed to ".search-engine optimization", ".social-media-marketing", and "online-reputation-management", etc.)  to simplify the code  */
 
 .content section {
     margin-bottom: 20px;
